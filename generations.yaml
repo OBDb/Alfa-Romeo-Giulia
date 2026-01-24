@@ -1,5 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(2015)"
+
 generations:
   - name: "First Generation (Type 952)"
     start_year: 2015
+    end_year: 2019
+    description: "The modern Alfa Romeo Giulia marks the brand's return to the rear-wheel drive sports sedan segment. Built on the Giorgio platform, it features a range of engines from a 2.0L turbocharged four-cylinder (200-280 HP) to the high-performance Quadrifoglio's 2.9L twin-turbo V6 producing 505 HP. Unveiled in June 2015 with market launch in February 2016, the Giulia is known for its distinctive Italian styling, excellent handling characteristics, and driver-focused experience. The Quadrifoglio variant set a Nürburgring lap record for production sedans at its launch."
+
+  - name: "First Generation (Type 952) 2020 Refresh"
+    start_year: 2020
+    end_year: 2022
+    description: "The 2020 model year brought a comprehensive mid-cycle refresh with interior quality improvements and updated technology features. The redesigned center console featured an upgraded touchscreen infotainment system (with rotary dial control) and improved interior materials. For 2019, diesel engines were updated to meet Euro 6d emission standards with AdBlue technology. The Quadrifoglio received six port injectors. The trim lineup evolved with Super, Sprint, Veloce, Veloce Ti, Lusso Ti, and Quadrifoglio variants."
+
+  - name: "First Generation (Type 952) 2023 Facelift"
+    start_year: 2023
     end_year: null
-    description: "The modern Alfa Romeo Giulia marks the brand's return to the rear-wheel drive sports sedan segment. Built on the Giorgio platform, it features a range of engines from a 2.0L turbocharged four-cylinder (200-280 HP) to the high-performance Quadrifoglio's 2.9L twin-turbo V6 producing 505 HP. The Giulia is known for its distinctive Italian styling, excellent handling characteristics, and driver-focused experience. A mid-cycle refresh in 2020 brought interior quality improvements and updated technology features while maintaining the car's dynamic driving characteristics. The Giulia has received critical acclaim for its performance, particularly in Quadrifoglio form, which set a Nürburgring lap record for production sedans at its launch."
+    description: "The major facelift was announced in late 2022 and available for sale in 2023 (2024 model year in North America). The most significant changes include new 3+3 LED matrix adaptive headlights, revised rear combination lamps with smoked lenses, and a new 12.3-inch digital instrument cluster with three display layouts (Evolved, Relax, Heritage). For 2024, the Quadrifoglio engine power was boosted to 520 PS with a standard mechanical limited-slip differential. New variants include the Competizione trim and Super Sport variant. The lineup consists of Sprint, Ti, Veloce, Competizione, and Quadrifoglio."
