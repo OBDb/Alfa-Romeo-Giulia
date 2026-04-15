@@ -6,25 +6,15 @@ test_cases:
     18DAF11003410F53
     18DAF11703410F53
 - expected_values:
-    IAT: 44
-  response: |-
-    18DAF11003410F54
-    18DAF11703410F54
-- expected_values:
-    IAT: 52
-  response: |-
-    18DAF11003410F5B
-    18DAF11703410F5C
-- expected_values:
-    IAT: 54
-  response: |-
-    18DAF11003410F5D
-    18DAF11703410F5E
-- expected_values:
     IAT: 57
   response: |-
     18DAF11003410F60
     18DAF11703410F61
+- expected_values:
+    IAT: 59
+  response: |-
+    18DAF11003410F63
+    18DAF11703410F63
 - expected_values:
     IAT: 44
   response: |-
