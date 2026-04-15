@@ -1,0 +1,7 @@
+command_id: DB33.018D
+test_cases:
+- expected_values:
+    TP_G: 0
+  response: |-
+    18DAF11703418D26
+    18DAF11003418D00
