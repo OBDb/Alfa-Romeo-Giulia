@@ -99,6 +99,8 @@ unsupported_commands_by_ecu:
   - 7AB.52B.222802
   "7E0":
   - 7E0.0105:ECT
+  - 7E0.015C:EOT
+  - 7E0.7E8.221302
   "7E1":
   - 7E1.7E9.225503
   - 7E1.7E9.225504
