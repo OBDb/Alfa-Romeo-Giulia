@@ -65,6 +65,7 @@ supported_commands_by_ecu:
   - DB33.010D:VSS
   - DB33.010E:SPARKADV
   - DB33.010F:IAT
+  - DB33.011C:OBDSUP
   - DB33.0123:FRP
   - DB33.012E:EVAP_PCT
   - DB33.012F:FLI
